@@ -35,7 +35,9 @@ Query 2 allows management to identify high-value members who spend more than the
 <img width="545" height="589" alt="Screenshot 2025-10-24 at 3 18 58 PM" src="https://github.com/user-attachments/assets/3ebe9eb2-7a38-43df-b7f5-0e987d95f17a" />
 <img width="478" height="66" alt="Screenshot 2025-10-24 at 3 19 08 PM" src="https://github.com/user-attachments/assets/ac51a2ee-4d00-46bc-bb74-e447060f9930" />
 Query 3 enables managers to quickly view all current active members and which membership plans they belong to. It's useful for finding which plans are the most popular and to verify active memberships within the club. Sorting by last name makes it easy to locate a member. 
----------------------------
+
+<br />
+
 4. Query 4
 Revenue Analysis by Membership Plan with Active Member Count
 DESCRIPTION: This query calculates total monthly revenue, average billing amount, and count of active members for each membership plan type.
@@ -43,7 +45,9 @@ JUSTIFICATION: Management needs to understand which membership plans generate th
 COMPLEXITY FEATURES: Multiple table JOIN, GROUP BY, Built-in functions (SUM, AVG, COUNT)
 <img width="674" height="347" alt="image" src="https://github.com/user-attachments/assets/ab2d0a30-943b-44df-8a7f-d9b88978a52b" />
 <img width="674" height="224" alt="image" src="https://github.com/user-attachments/assets/1fe89b20-f4af-4c2c-b2a3-45653bd62a93" />
----------------------------------------
+
+<br />
+
 5. Query 5
 Payment Timeliness and Billing Status by Member
 Description: This query identifies each member’s most recent billing record, total amount billed, and whether their last payment was made on time. It helps detect members who might have recurring billing issues or delays in payments.
