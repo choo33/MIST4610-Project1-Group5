@@ -4,12 +4,14 @@ Group 5
 Team Members:
 1. Jason Cho @choo33
 2. Victor Montoya @vrm99039
+3. Vivi Correa 
 
 Problem Description:
 The Charlotte Padel Club is a growing sports organization focused on managing memberships, court bookings, lessons, and events. They provide various membership plans that differ in price, benefits, and duration. Members can sign up for multiple events the club hosts, reserve courts for their matches, and handle payments. Each member's subscription includes data like plan type, acquisition date, and current status. The club has a dedicated team of staff that oversees operations, organizes events, and builds relationships with sponsors. These sponsors partner with the club to enhance their event promotions and brand visibility.
 Our data model is designed to offer an organized way to handle all operational data within a relational database. We aim to support the Charlotte Padel Club in making better business choices while improving both financial and operational efficiency.
 <br /> <br />
-Data Model
+Data Model <br />
+<img width="1954" height="1550" alt="image" src="https://github.com/user-attachments/assets/78561643-cb58-4ca0-bbc4-600b458b28fc" />
 <br /> <br />
 Data Dictionary
 <br /> <br />
@@ -38,9 +40,9 @@ Query 3 enables managers to quickly view all current active members and which me
 <br /> <br />
 4. Query 4
 Revenue Analysis by Membership Plan with Active Member Count
-<br /> DESCRIPTION: This query calculates total monthly revenue, average billing amount, and count of active members for each membership plan type.
-<br /> JUSTIFICATION: Management needs to understand which membership plans generate the most revenue and attract the most members. This helps with pricing strategy, marketing focus, and resource allocation decisions.
-<br /> COMPLEXITY FEATURES: Multiple table JOIN, GROUP BY, Built-in functions (SUM, AVG, COUNT)
+<br /> Description: This query calculates total monthly revenue, average billing amount, and count of active members for each membership plan type.
+<br /> Justification: Management needs to understand which membership plans generate the most revenue and attract the most members. This helps with pricing strategy, marketing focus, and resource allocation decisions.
+<br /> Complexity Features: Multiple table JOIN, GROUP BY, Built-in functions (SUM, AVG, COUNT)
 <img width="674" height="347" alt="image" src="https://github.com/user-attachments/assets/ab2d0a30-943b-44df-8a7f-d9b88978a52b" />
 <img width="674" height="224" alt="image" src="https://github.com/user-attachments/assets/1fe89b20-f4af-4c2c-b2a3-45653bd62a93" />
 <br /> <br />
