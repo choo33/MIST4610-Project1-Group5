@@ -38,17 +38,17 @@ Query 3 enables managers to quickly view all current active members and which me
 <br /> <br />
 4. Query 4
 Revenue Analysis by Membership Plan with Active Member Count
-DESCRIPTION: This query calculates total monthly revenue, average billing amount, and count of active members for each membership plan type.
-JUSTIFICATION: Management needs to understand which membership plans generate the most revenue and attract the most members. This helps with pricing strategy, marketing focus, and resource allocation decisions.
-COMPLEXITY FEATURES: Multiple table JOIN, GROUP BY, Built-in functions (SUM, AVG, COUNT)
+<br /> DESCRIPTION: This query calculates total monthly revenue, average billing amount, and count of active members for each membership plan type.
+<br /> JUSTIFICATION: Management needs to understand which membership plans generate the most revenue and attract the most members. This helps with pricing strategy, marketing focus, and resource allocation decisions.
+<br /> COMPLEXITY FEATURES: Multiple table JOIN, GROUP BY, Built-in functions (SUM, AVG, COUNT)
 <img width="674" height="347" alt="image" src="https://github.com/user-attachments/assets/ab2d0a30-943b-44df-8a7f-d9b88978a52b" />
 <img width="674" height="224" alt="image" src="https://github.com/user-attachments/assets/1fe89b20-f4af-4c2c-b2a3-45653bd62a93" />
 <br /> <br />
 5. Query 5
 Payment Timeliness and Billing Status by Member
-Description: This query identifies each member’s most recent billing record, total amount billed, and whether their last payment was made on time. It helps detect members who might have recurring billing issues or delays in payments.
-Justification: From a managerial perspective, this query is essential for monitoring member payment reliability. It can be used to identify delinquent accounts, automate reminder notices, and improve cash flow prediction.
-Complexity Features: Multiple JOINs, aggregation, subquery, date comparison, and conditional logic (CASE).
+<br /> Description: This query identifies each member’s most recent billing record, total amount billed, and whether their last payment was made on time. It helps detect members who might have recurring billing issues or delays in payments.
+<br /> Justification: From a managerial perspective, this query is essential for monitoring member payment reliability. It can be used to identify delinquent accounts, automate reminder notices, and improve cash flow prediction.
+<br /> Complexity Features: Multiple JOINs, aggregation, subquery, date comparison, and conditional logic (CASE).
 <img width="725" height="349" alt="image" src="https://github.com/user-attachments/assets/74c05464-5da0-4c04-bb61-165e2425b3fe" />
 <img width="441" height="433" alt="image" src="https://github.com/user-attachments/assets/4355fcee-d3df-436d-a99d-1e4ca5b9dd40" />
 <img width="441" height="433" alt="image" src="https://github.com/user-attachments/assets/95fb791d-d5ba-4e4c-9762-222fddbdef4f" />
@@ -57,17 +57,17 @@ Complexity Features: Multiple JOINs, aggregation, subquery, date comparison, and
 <br /> <br />
 6. Query 6
 Member Engagement by Membership Plan
-Description: This query shows how engaged members are based on their membership plan type by calculating the average number of events attended for each membership plan type.
-Justification: Managers can use this to determine which membership plans encourage more  participation in club activities. Plans with low engagement may need improved benefits or  promotional events to increase member involvement.
-Complexity Features: Multiple table JOINs, GROUP BY, aggregate functions (COUNT, AVG), and calculated fields.
+<br /> Description: This query shows how engaged members are based on their membership plan type by calculating the average number of events attended for each membership plan type.
+<br /> Justification: Managers can use this to determine which membership plans encourage more  participation in club activities. Plans with low engagement may need improved benefits or  promotional events to increase member involvement.
+<br /> Complexity Features: Multiple table JOINs, GROUP BY, aggregate functions (COUNT, AVG), and calculated fields.
 <img width="933" height="296" alt="image" src="https://github.com/user-attachments/assets/fa7537f1-fb55-483f-8674-737a89b8bd12" />
 <img width="664" height="341" alt="image" src="https://github.com/user-attachments/assets/c9fe10c1-7835-41a4-842e-82538055ffee" />
 <br /> <br />
 7. Query 7:
 Staff Event Management Performance Overview
-Description: This query summarizes how many events each staff member managed and the total number of attendees across all their events.
-Justification: This is useful for management to evaluate staff workload and performance, recognize top-performing event coordinators, and optimize event assignments.
-Complexity Features: Multiple table JOINs, aggregation, and GROUP BY with calculated fields.
+<br /> Description: This query summarizes how many events each staff member managed and the total number of attendees across all their events.
+<br /> Justification: This is useful for management to evaluate staff workload and performance, recognize top-performing event coordinators, and optimize event assignments.
+<br /> Complexity Features: Multiple table JOINs, aggregation, and GROUP BY with calculated fields.
 <img width="615" height="249" alt="image" src="https://github.com/user-attachments/assets/52051af0-352f-4fe8-a8b3-424ca13b3f04" />
 <img width="615" height="155" alt="image" src="https://github.com/user-attachments/assets/919b06a0-96f4-4a74-b000-0803882e9e89" />
 <br /> <br />
