@@ -14,7 +14,7 @@ Data Dictionary
 
 Queries:
 1. Query 1 lists the total revenue collected for the current month. It also displays the total for each payment method (e.g., Credit Card, Cash, Online). The results are ordered by total revenue in descending order.
-<img width="379" height="177" alt="Screenshot 2025-10-24 at 2 45 55 PM" src="https://github.com/user-attachments/assets/bb76a700-feb3-4998-a793-30902ce05379" />
+2. <img width="379" height="177" alt="Screenshot 2025-10-24 at 2 45 55 PM" src="https://github.com/user-attachments/assets/bb76a700-feb3-4998-a793-30902ce05379" />
 <img width="280" height="74" alt="Screenshot 2025-10-24 at 2 46 09 PM" src="https://github.com/user-attachments/assets/03d1d0ec-a261-4925-b26a-25ec73ef30b9" />
 Query 1 allows managers to see which payment methods are the most commonly used by members and which methods bring in the most revenue during the current month. This information can help management identify member preferences and help decide which payment options to prioritize or promote. We listed the results in descending order to help management quickly identify the top-performing payment methods, which can influence financial planning in the club.
 ------------------------------------------------------
