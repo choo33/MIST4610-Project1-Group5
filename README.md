@@ -91,9 +91,9 @@ Staff Event Management Performance Overview
 Active subscribers with 0 events attended
 What it shows: Active subscribers who have never attended an event.
 Why it helps: Flags disengaged members for onboarding nudges, welcome events, or targeted offers to increase retention.
-![IMG_6590](https://github.com/user-attachments/assets/ebe51443-51df-4687-984f-d5952ad53b73)
-![IMG_2441](https://github.com/user-attachments/assets/37f7f39c-8ab1-4619-99a3-3a6133bcdc55)
-![IMG_5937](https://github.com/user-attachments/assets/9ecff00c-5657-443c-84c1-530d21f85dc9)
+<img width="1230" height="950" alt="image" src="https://github.com/user-attachments/assets/00492131-25a9-4503-ae53-c4080dddbbd6" />
+<img width="1230" height="880" alt="image" src="https://github.com/user-attachments/assets/95a44911-deed-4eef-9fcd-6b402dde51a3" />
+<img width="790" height="238" alt="image" src="https://github.com/user-attachments/assets/16b49b4e-726d-49bf-8ca9-8d28247acc54" />
 
 
 
