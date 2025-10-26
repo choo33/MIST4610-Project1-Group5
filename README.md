@@ -88,12 +88,36 @@ Staff Event Management Performance Overview
 <img width="615" height="155" alt="image" src="https://github.com/user-attachments/assets/919b06a0-96f4-4a74-b000-0803882e9e89" />
 <br /> <br />
 8. Query 8
-Active subscribers with 0 events attended
-What it shows: Active subscribers who have never attended an event.
-Why it helps: Flags disengaged members for onboarding nudges, welcome events, or targeted offers to increase retention.
+<br /> Active subscribers with 0 events attended
+<br /> What it shows: Active subscribers who have never attended an event.
+<br /> Why it helps: Flags disengaged members for onboarding nudges, welcome events, or targeted offers to increase retention.
 <img width="1230" height="950" alt="image" src="https://github.com/user-attachments/assets/00492131-25a9-4503-ae53-c4080dddbbd6" />
 <img width="1230" height="880" alt="image" src="https://github.com/user-attachments/assets/95a44911-deed-4eef-9fcd-6b402dde51a3" />
 <img width="790" height="238" alt="image" src="https://github.com/user-attachments/assets/16b49b4e-726d-49bf-8ca9-8d28247acc54" />
+<br /> <br />
+9. Query 9
+<br /> Number of payments and total paid for each active member 
+<br /> What it shows: For each active member, the number of payments and total paid to date.
+<br /> Why it helps: Quickly surfaces high-value members and those with low payment activity for retention/upsell efforts.
+<img width="1104" height="1004" alt="image" src="https://github.com/user-attachments/assets/85d7be40-8b40-4741-90d8-34d9be604779" />
+<img width="1052" height="990" alt="image" src="https://github.com/user-attachments/assets/8915c93c-a99c-45d6-b698-0d36aa2135d5" />
+<img width="1052" height="1012" alt="image" src="https://github.com/user-attachments/assets/36239e7d-1ff2-47be-a595-00118ef45e76" />
+<img width="1052" height="1012" alt="image" src="https://github.com/user-attachments/assets/a7eb850e-bfc5-4acc-bd53-0074bbd70980" />
+<img width="1052" height="1012" alt="image" src="https://github.com/user-attachments/assets/7b53b502-4df6-47a1-979a-343f838dd708" />
+<img width="1052" height="1012" alt="image" src="https://github.com/user-attachments/assets/a6620aac-360b-4246-a5aa-3ab6c8485361" />
+<img width="1052" height="1012" alt="image" src="https://github.com/user-attachments/assets/7a3885fa-cb49-4cb5-94d1-5357127380e7" />
+<img width="1052" height="760" alt="image" src="https://github.com/user-attachments/assets/963da606-eabf-478e-8799-cad77b0a1f90" />
+<br /> <br />
+
+
+
+
+
+
+
+
+
+
 
 
 
