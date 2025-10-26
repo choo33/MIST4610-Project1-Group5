@@ -116,6 +116,10 @@ Staff Event Management Performance Overview
 <img width="736" height="152" alt="image" src="https://github.com/user-attachments/assets/e357f54f-a755-4e8c-88eb-b7d483e5a22e" />
 <br /> <br />
 
+Query Checklist:
+<br /> 
+<img width="2032" height="306" alt="image" src="https://github.com/user-attachments/assets/c71c713b-4267-48dc-8939-4a86eebb278a" />
+
 
 
 
