@@ -108,6 +108,17 @@ Staff Event Management Performance Overview
 <img width="1052" height="1012" alt="image" src="https://github.com/user-attachments/assets/7a3885fa-cb49-4cb5-94d1-5357127380e7" />
 <img width="1052" height="760" alt="image" src="https://github.com/user-attachments/assets/963da606-eabf-478e-8799-cad77b0a1f90" />
 <br /> <br />
+10. Query 10
+<br /> Payment channel profitability
+<br /> What it shows: For each payment method (like Credit Card, Cash, Online), this query displays the total revenue collected, number of transactions, and average payment amount across all payments in the system.
+<br /> Why it helps: Gives management a clear view of which payment channels are most used and most profitable, helping them decide which payment options to prioritize, promote, or streamline in the club’s financial system.
+<img width="736" height="432" alt="image" src="https://github.com/user-attachments/assets/c8e01725-d25b-44e9-9adf-a741e236a0ec" />
+<img width="736" height="152" alt="image" src="https://github.com/user-attachments/assets/e357f54f-a755-4e8c-88eb-b7d483e5a22e" />
+<br /> <br />
+
+
+
+
 
 
 
