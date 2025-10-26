@@ -4,7 +4,7 @@ Group 5
 Team Members:
 1. Jason Cho @choo33
 2. Victor Montoya @vrm99039
-3. Vivi Correa
+3. Vivi Correa @vivi-correa
 4. Aritra Bhattacharya @aritrabha1
 5. Soham Joshi @sohamjoshiii
 
