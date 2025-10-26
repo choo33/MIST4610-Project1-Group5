@@ -15,7 +15,7 @@ Our data model is designed to offer an organized way to handle all operational d
 Data Model <br />
 <img width="1954" height="1550" alt="image" src="https://github.com/user-attachments/assets/78561643-cb58-4ca0-bbc4-600b458b28fc" />
 <br /> <br />
-Data Dictionary
+Data Dictionary <br />
 <img width="825" height="621" alt="image" src="https://github.com/user-attachments/assets/49763fc6-36e1-49eb-a0d4-dcf510aef718" />
 <img width="437" height="546" alt="image" src="https://github.com/user-attachments/assets/ba8c1394-435c-49aa-8438-00d0ce8d05f0" />
 <img width="614" height="209" alt="image" src="https://github.com/user-attachments/assets/8fc10634-7134-4ebe-84a5-28313040450d" />
