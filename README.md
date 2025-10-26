@@ -15,6 +15,7 @@ Data Model <br />
 <img width="1954" height="1550" alt="image" src="https://github.com/user-attachments/assets/78561643-cb58-4ca0-bbc4-600b458b28fc" />
 <br /> <br />
 Data Dictionary
+<img width="825" height="621" alt="image" src="https://github.com/user-attachments/assets/49763fc6-36e1-49eb-a0d4-dcf510aef718" />
 <br /> <br />
 Queries:
 1. Query 1 lists the total revenue collected for the current month. It also displays the total for each payment method (e.g., Credit Card, Cash, Online). The results are ordered by total revenue in descending order.
