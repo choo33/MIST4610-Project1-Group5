@@ -74,6 +74,18 @@ Staff Event Management Performance Overview
 <img width="615" height="249" alt="image" src="https://github.com/user-attachments/assets/52051af0-352f-4fe8-a8b3-424ca13b3f04" />
 <img width="615" height="155" alt="image" src="https://github.com/user-attachments/assets/919b06a0-96f4-4a74-b000-0803882e9e89" />
 <br /> <br />
+8. Query 8
+Active subscribers with 0 events attended
+What it shows: Active subscribers who have never attended an event.
+Why it helps: Flags disengaged members for onboarding nudges, welcome events, or targeted offers to increase retention.
+![IMG_6590](https://github.com/user-attachments/assets/ebe51443-51df-4687-984f-d5952ad53b73)
+![IMG_2441](https://github.com/user-attachments/assets/37f7f39c-8ab1-4619-99a3-3a6133bcdc55)
+![IMG_5937](https://github.com/user-attachments/assets/9ecff00c-5657-443c-84c1-530d21f85dc9)
+
+
+
+
+
 
 
 
