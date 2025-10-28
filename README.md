@@ -3,10 +3,10 @@ Group 5
 
 Team Members:
 1. Jason Cho [@choo33](https://github.com/choo33)
-2. Victor Montoya @vrm99039
-3. Vivi Correa @vivi-correa
-4. Aritra Bhattacharya @aritrabha1
-5. Soham Joshi @sohamjoshiii
+2. Victor Montoya [@vrm99039](https://github.com/@vrm99039)
+3. Vivi Correa [@vivi-correa](https://github.com/@vivi-correa)
+4. Aritra Bhattacharya [@aritrabha1](https://github.com/@aritrabha1)
+5. Soham Joshi [@sohamjoshiii](https://github.com/@sohamjoshiii)
 
 Problem Description:
 The Charlotte Padel Club is a growing sports organization focused on managing memberships, court bookings, lessons, and events. They provide various membership plans that differ in price, benefits, and duration. Members can sign up for multiple events the club hosts, reserve courts for their matches, and handle payments. Each member's subscription includes data like plan type, acquisition date, and current status. The club has a dedicated team of staff that oversees operations, organizes events, and builds relationships with sponsors. These sponsors partner with the club to enhance their event promotions and brand visibility.
