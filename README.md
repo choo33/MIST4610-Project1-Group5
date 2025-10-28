@@ -2,7 +2,7 @@ Team Name:
 Group 5
 
 Team Members:
-1. Jason Cho @choo33
+1. Jason Cho [@choo33](https://github.com/choo33/MIST4610-Project1-Group5)
 2. Victor Montoya @vrm99039
 3. Vivi Correa @vivi-correa
 4. Aritra Bhattacharya @aritrabha1
